@@ -6,6 +6,7 @@ public class PrintHelloTest {
         PrintBye Bye = new PrintBye();
         Bye.PrintByeBye();
         hello.printHi();
+        hello.printHi();
     }
 
 }
